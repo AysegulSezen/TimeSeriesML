@@ -1,2 +1,2 @@
 # TimeSeriesML
-Kaggle Time Series Project
+Kaggle "Titanic - Machine Learning from Disaster" Project.
